@@ -6,7 +6,7 @@ Epicenter is a work in progress.
 
 Epicenter is a knowledge-based system for computational epidemiology, focused on infectious disease spread. It combines a robust ontology of parameters that are useful for a broad variety of models with a knowledge graph containing data that pertains to specific diseases.
 
-Epicenter aims to first provide modeling around COVID-19/SARS-CoV2. Documentation of the current work in progress is available in the [docs](epi-center.rtfd.io).
+Epicenter aims to first provide modeling around COVID-19/SARS-CoV2. Documentation of the current work in progress is available in the [docs](https://epi-center.rtfd.io).
 
 ## Installation:
 
