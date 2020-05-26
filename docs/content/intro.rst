@@ -1,4 +1,1 @@
-Intro to epi-center
-======================
-
-Hello!
+.. include:: ../../README.rst

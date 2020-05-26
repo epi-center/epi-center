@@ -1,20 +1,21 @@
-.. epi-center documentation master file, created by
-   John Urbanik on Tue May 26 13:17:44 2020.
+epi-center
+================================================================
 
-Welcome to epi-center's documentation!
-======================================
+epi-center is a package for building knowledge bases for computational epidemiology.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   :glob:
 
-   content/intro
+   Quick Start <content/intro>
+   content/motivation
+   content/architecture
+   content/installation
 
-Hello!
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
